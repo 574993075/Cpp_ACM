@@ -3,4 +3,4 @@
 
 [冒泡排序](/demo_01/bubble_out.cpp)
 
-[统计数字数目](/demo_01/static.cpp)
+[统计数字数目](/demo_01/statistic.cpp)
